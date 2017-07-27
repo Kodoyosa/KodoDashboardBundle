@@ -65,3 +65,5 @@ Dashboard Bundle for symfony >= 3.3
                         
 4) run `php bin/console assetic:dump
 `
+
+5) (optionnal) Change `prefix:   /` in /app/config/routing.yml for the Dashboard bundle depending on your project security configuration

@@ -35,3 +35,10 @@
 
 # Composer PHAR
 /composer.phar
+
+# IDE
+/.idea
+
+# Sessions
+/var/sessions/*
+!var/sessions/.gitkeep

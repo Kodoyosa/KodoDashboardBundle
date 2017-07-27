@@ -1,0 +1,7 @@
+kodo_dashboard:
+    resource: "@KodoDashboardBundle/Resources/config/routing.yml"
+    prefix:   /dashboard
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
